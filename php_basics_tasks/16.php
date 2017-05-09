@@ -1,11 +1,11 @@
 <?php
 
-	$a;
-	$b;
+	$a = 10;
+	$b = 5;
 	
 	if($a > $b){
 		
-		echo $a. "Is bigest number.";
+		echo "The bigest number is" . $a;
 	}
 
 ?>
